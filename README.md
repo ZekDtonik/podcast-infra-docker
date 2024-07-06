@@ -40,8 +40,8 @@ TechTowers:
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Leonardo.ai Para gerar capas
+- Wondershare Filmora para tratamento de aúdio
 
 ## 👨‍💻 Expert
 
